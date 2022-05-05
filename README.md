@@ -38,12 +38,21 @@ This is a simple Fake News Detection Web App built using python and flask and is
 
 ***Stern asked Trump if he supported a war with Iraq, and Trump responded, “Yeah, I guess so.”***
 
+
+[[https://github.com/d-coder111/FNDetectoApp/blob/master/predict1.PNG]]
+
 FNDetecto App will detect it as ***spam***.
 
-And now consider another statement-
+[[https://github.com/d-coder111/FNDetectoApp/blob/master/fake.PNG]]
+
+**And now consider another statement-**
 
 ***The Corker bill makes it less likely sanctions would be lifted, and lifted in a timely way, which gives less encouragement to Iran***
 
+[[https://github.com/d-coder111/FNDetectoApp/blob/master/predict2.PNG]]
+
 FNDetecto App will detect it as ***real news***.
+
+[[https://github.com/d-coder111/FNDetectoApp/blob/master/real.PNG]]
 
 
