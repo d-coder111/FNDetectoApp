@@ -1,7 +1,7 @@
 # FNDetectoAPP
 
 
-## LINK : https://fndetecto.azurewebsites.net/
+## 
 
 
 ### Industry: Lifestyle
